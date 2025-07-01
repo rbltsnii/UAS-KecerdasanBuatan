@@ -43,7 +43,6 @@ Proyek ini merupakan implementasi **Kecerdasan Buatan (Artificial Intelligence)*
 - **Algoritma Utama:** Convolutional Neural Network (CNN).
   - Mendeteksi fitur visual seperti tepi, sudut, tekstur.
   - Cocok untuk data gambar dengan variasi visual tinggi.
-- **Baseline:** Logistic Regression (untuk pembanding awal).
 - **Implementasi:** Python + TensorFlow/Keras.
 - **Hyperparameter Tuning:** Grid Search untuk Logistic Regression.
 
@@ -74,6 +73,3 @@ Proyek ini merupakan implementasi **Kecerdasan Buatan (Artificial Intelligence)*
 - Putri, F. G., et al. (2022). *Penerapan Metode CNN Untuk Clothing Image Recognition*.
 - Susilayasa, I. M. A., et al. (2022). *Analisis Sentimen Ulasan E-Commerce Pakaian dengan CNN*.
 - Sandag, G. A., et al. (2021). *Identifikasi Foto Fashion dengan CNN*.
-
-## 📂 Lampiran
-- Google Colab link: [Klik di sini](https://drive.google.com/drive/folders/1BQGb9HO28L8xQjlbc3qbU3OimROfzWVN?usp=sharing)
